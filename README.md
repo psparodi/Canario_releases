@@ -1,4 +1,4 @@
-# Tricoma Releases
+# CanarIoT Releases
 
 ## Repositorio GitHub
-https://github.com/psparodi/Tricoma_releases
+https://github.com/psparodi/Canario_releases
